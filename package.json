@@ -1,0 +1,20 @@
+{
+  "name": "hot-restaurant",
+  "version": "1.0.0",
+  "description": "restaurant app using Express JS, Node, CSS, AJAX, HTML",
+  "main": "restaurant.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phild6596/hot-restaurant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phild6596/hot-restaurant/issues"
+  },
+  "homepage": "https://github.com/phild6596/hot-restaurant#readme"
+}
